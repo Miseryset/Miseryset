@@ -38,9 +38,8 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=599EF7&vCenter=true&width=435&height=33&lines=Miseryset.netlify.app;Miseryset.github.io;Miseryset.vercel.app)](https://git.io/typing-svg)
 
 <p>
-<a href="Miseryset.netlify.app"><img src="https://img.shields.io/static/v1?label=Blog&message=Miseryset.netlify.app&color=7BFCF0"/></a>
+<a href="https://miseryset.netlify.app/"><img src="https://img.shields.io/static/v1?label=Blog&message=Miseryset.netlify.app&color=7bfcf0"/></a>
 </p>
-
 
 
 
