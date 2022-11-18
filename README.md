@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 <p>
 <a href="https://miseryset.netlify.app/"><img src="https://img.shields.io/static/v1?label=Blog&message=Miseryset.netlify.app&color=7bfcf0"/></a>
+<a href="https://miseryset.github.io/"><img src="https://img.shields.io/static/v1?label=Blog&message=Miseryset.github.io&color=7bfcb1"/></a>
+<a href="https://miseryset.vercel.app/"><img src="https://img.shields.io/static/v1?label=Blog&message=Miseryset.vercel.app&color=7bbefc"/></a>
 </p>
 
 
