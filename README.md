@@ -30,15 +30,14 @@ Here are some ideas to get you started:
 
 <!--语言统计-->
 #### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=E07BFC&vCenter=true&width=435&height=33&lines=Language)](https://git.io/typing-svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miseryset&layout=compact&hide_title=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miseryset&layout=compact&hide_title=true&theme=dracula&border_radius=10)
 
-<!--合计贡献-->
+<!--贡献-->
 #### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=8E78F9&vCenter=true&width=435&height=33&lines=Contribution+streak)](https://git.io/typing-svg)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Miseryset&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Miseryset&theme=dracula&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!--typing svg-->
+<!--Site-->
 #### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=78BFF9&vCenter=true&width=435&height=33&lines=Site)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=78F9EC&vCenter=true&width=435&height=33&lines=Miseryset.netlify.app;Miseryset.github.io;Miseryset.vercel.app)](https://git.io/typing-svg)
 
 <p>
@@ -47,6 +46,7 @@ Here are some ideas to get you started:
 <a href="https://miseryset.vercel.app/"><img src="https://img.shields.io/static/v1?label=Blog&message=Miseryset.vercel.app&color=7bbefc"/></a>
 </p>
 
+<!--Quotes-->
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F9E878&vCenter=true&width=435&height=33&lines=Quote)](https://git.io/typing-svg)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
