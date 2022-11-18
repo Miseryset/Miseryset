@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 -->
-#### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FC7B7B&vCenter=true&width=435&height=23&lines=Hi+there+👋;)](https://git.io/typing-svg)
+#### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FC7B7B&vCenter=true&width=435&height=28&lines=Hi+there+👋;)](https://git.io/typing-svg)
 <!--
 **Miseryset/Miseryset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
