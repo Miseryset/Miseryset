@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <!--Quotes-->
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F9E878&vCenter=true&width=435&height=33&lines=Quote)](https://git.io/typing-svg)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
