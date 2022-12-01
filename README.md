@@ -38,12 +38,11 @@ Here are some ideas to get you started:
 
 <!--Site-->
 #### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=78BFF9&vCenter=true&width=435&height=33&lines=Site)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=78F9EC&vCenter=true&width=435&height=33&lines=Miseryset.netlify.app;Miseryset.github.io;Miseryset.vercel.app)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=78F9EC&vCenter=true&width=435&height=33&lines=Miseryset.netlify.app;Miseryset.github.io)](https://git.io/typing-svg)
 
 <p>
 <a href="https://miseryset.netlify.app/"><img src="https://img.shields.io/static/v1?label=Blog&message=Miseryset.netlify.app&color=7bfcf0"/></a>
 <a href="https://miseryset.github.io/"><img src="https://img.shields.io/static/v1?label=Blog&message=Miseryset.github.io&color=7bfcb1"/></a>
-<a href="https://miseryset.vercel.app/"><img src="https://img.shields.io/static/v1?label=Blog&message=Miseryset.vercel.app&color=7bbefc"/></a>
 </p>
 
 <!--Quotes-->
