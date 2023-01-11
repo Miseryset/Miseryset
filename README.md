@@ -51,7 +51,13 @@ Here are some ideas to get you started:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
+###### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&pause=1000&color=F9E878&center=true&vCenter=true&width=435&height=40&lines=Devices)
 
+[![Mi 9T Pro](https://img.shields.io/badge/Mi_9T_Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
+[![Mi Pad5Pro](https://img.shields.io/badge/Mi_Pad5Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
+[![MEIZU 18s Pro](https://img.shields.io/badge/MEIZU_18s_Pro-008cff?style=flat-square&logo=meizu&logoColor=ffffff)](#)
+
+[![DELL G7](https://img.shields.io/badge/DELL_G7-007DB8?style=flat-square&logo=dell&logoColor=ffffff)](#)
 
 
 
