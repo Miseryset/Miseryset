@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!--贡献-->
 ###### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&pause=1000&color=8E78F9&center=true&vCenter=true&width=435&height=40&lines=Contribution+streak)
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Miseryset&theme=dracula&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Miseryset&theme=dracula&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)
 
 <!--Site-->
 ###### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&pause=1000&color=78BFF9&center=true&vCenter=true&width=435&height=40&lines=Site)
