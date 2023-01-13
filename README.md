@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!--语言统计-->
 ###### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&pause=1000&color=E07BFC&center=true&vCenter=true&width=435&height=40&lines=Language)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miseryset&layout=compact&hide_title=true&theme=dracula&border_radius=10)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Miseryset&layout=compact&hide_title=true&theme=dracula&border_radius=10)
 
 <!--贡献-->
 ###### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&pause=1000&color=8E78F9&center=true&vCenter=true&width=435&height=40&lines=Contribution+streak)
